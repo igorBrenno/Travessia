@@ -1,0 +1,14 @@
+{
+  "name": "lab1",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Kayo Ronald, Igor",
+  "license": "ISC"
+}
